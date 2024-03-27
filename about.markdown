@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I created this blog in order to share pictures and stories from my solo motorcycle trip through South America. This way friends and family can follow along with my journey and see where I'm at and what I'm doing. The ultimate goal of the trip is to ride a motorcycle from Colombia all the way down to Chile, passing through Ecuador, Peru, Bolivia, and Argentina along the way. I will be roughly following the path of the legendary Pan American Highway.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![image info](./images/panamerican.png)
