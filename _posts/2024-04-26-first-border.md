@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First Border Crossing"
+date:   2024-04-26 10:22:12 -0700
+---
+
+(Skip reading this post if you don't want to read about boring goverment paperwork and bureaucracy.)
+Colombia to Ecuador was my first border crossing. Usually they're not too big of a deal as long as you have the proper documents for your vehicle. I bought the motorcycle in Colombia, but my registration documents had not yet come through. This makes it a lot more complicated to cross the border because my documents all have the name of the company I bought the bike from. Since I didn't have my permanent documents yet, the company wrote me a rental agreement to show at the border as proof that I am legally in posession of the motorcycle. On Wednesday I tried to cross the border and I showed the document, but they told me it needed to be notarized. While Latin American countries can be very laid back about some things, they can be very strict when it comes to paperwork and legal proceedings. Since the notary was closed, I had to wait until the next day. The next day I went to the notary with the rental agreement, but they told me both me and the owner of the company had to be present to notarize it. The owner was unfortunately on a trip to the US. I went to a second notary, and they thankfully stamped the document and notarized my signature. However, the owner's signature was not notarized. Technically speaking, the document was not yet fully notarized. If they didn't let me cross the border with this contract, I would have to spend at least another week in Colombia awaiting the official paperwork. I went to the border anyway, praying that they would let me enter the country with this half-notarized document. At the border I presented all my paperwork, crossed my fingers, and tried to act as friendly as possible to win over the border agent. To my surprise, he started to type things into the computer. He asked me for more documents, and pictures of the motorcyle. It was working. After about 20 minutes of crossing my fingers and doing my best to bluff my way through the fact that my document was not technically fully legal, the agent handed me my temporary import permit. After several days of doing paperwork and dealing with bureaucracy, I could finally legally enter Ecuador. I breathed a huge sigh of relief and was on my way.
+
+![](/images/72CE700D-222E-4A29-95D8-EE97E3C0E75D.jpeg)
+
+After finally successfully crossing my first border
