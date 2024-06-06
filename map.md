@@ -16,7 +16,7 @@ A map of my travels
     <style type="text/css">
       #map {
         height: 500px;
-        width: 800px;
+        width: 100%;
       }
     </style>
     <script>
