@@ -7093,18 +7093,6 @@
     </trkseg>
   </trk>
   <trk>
-    <name>Ben Ovard (25366086)</name>
-    <desc>Ben Ovard (25366086)</desc>
-    <trkseg>
-      <trkpt lat="-23.238595" lon="-65.356765">
-        <ele>2899.10</ele>
-        <time>2024-05-20T13:12:45Z</time>
-        <desc />
-        <fix>none</fix>
-      </trkpt>
-    </trkseg>
-  </trk>
-  <trk>
     <name>Ben Ovard (25396444)</name>
     <desc>Ben Ovard (25396444)</desc>
     <trkseg>
